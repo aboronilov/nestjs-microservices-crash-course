@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@nest-microservices-purple/contracts": ["contracts/src/index.ts"],
       "@nest-microservices-purple/interfaces": ["interfaces/src/index.ts"]
     }
   },
